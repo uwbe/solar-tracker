@@ -1,5 +1,8 @@
 # SolarTracker from Zachi Zolar
 ## Introduction
+<img src="./images/IMG_1909.jpeg"  height="400px"/>
+<img src="./images/IMG_1908.jpeg"  height="400px"/>
+
 This repository contains all necessary information to rebuilt a little solar tracker with 2x1W solar panels, which produces enough power to drive itself and, if the sun light is bright enough, a little garden fontain (1.4W).
 The project is supposed as a starting point for Arduino enthusiast to create a funny little device and learn to bring all skills together, such as: 
 * Programming Arduino Nano
