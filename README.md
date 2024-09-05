@@ -16,3 +16,5 @@ The project is supposed as a starting point for Arduino enthusiast to create a f
 The SolarTracker v1.0 from Zachi Zolar is far away from being ready. E.g. the first version was melting in the sun because it was 3D printed with PLA. This version printed with ASA withstands UV light and heat, 
 but it is not really water protected.
 Happy assembling!
+
+A little [introduction](https://www.youtube.com/watch?v=XpIjK1iY8B4&t=24s) video in German on Youtube.
